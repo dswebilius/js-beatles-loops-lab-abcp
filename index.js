@@ -29,5 +29,4 @@ function iLoveTheBeatles (num) {
     n++
   } while (n < 15)
   return beatlesLove
-  }
 }
