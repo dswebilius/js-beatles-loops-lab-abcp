@@ -17,7 +17,7 @@ function johnLennonFacts(array) {
     i++
   }
 
-  return facts
+  return array
 }
 
 
